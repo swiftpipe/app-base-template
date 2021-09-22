@@ -1,0 +1,8 @@
+{
+  "name": "app-base-template",
+  "version": "1.0.0",
+  "description": "React Native Template",
+  "repository": "git@github.com:swiftpipe/app-base-template.git",
+  "author": "Cao Khanh Nhat",
+  "license": "MIT"
+}
